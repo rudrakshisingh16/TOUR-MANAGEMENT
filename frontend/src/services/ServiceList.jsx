@@ -32,4 +32,6 @@ const ServiceList = () => {
     </Col>
     ))}
   </>
-};
+};
+
+export default ServiceList;
